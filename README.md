@@ -5,4 +5,4 @@ Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API"
 - Requisição de dados de uma API usando Then
 - Requisição de dados de uma API usando Async Await
 
-## GitHub Pages: ... 
+## GitHub Pages: https://cruz-andre.github.io/AluraBooksAPI/
